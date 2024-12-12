@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BMI</string>
+    <string name="hint_weight">Podaj wagę</string>
+    <string name="hint_height">Podaj wzrost</string>
+    <string name="button_calculate">Oblicz BMI</string>
+    <string name="result_bmi">Twoje BMI: </string>
 </resources>
